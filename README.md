@@ -15,7 +15,7 @@
 
 ![心情复杂 - 一组渣画质小表情_小表情_高糊_怼人表情表情](http://wx3.sinaimg.cn/bmiddle/006fbYi5gy1ff4kschlzsj301p01tgle.jpg)
 
-随后将 大神的脚本 引入 Github 利用 Actions 的功能也能实现相同的功能。
+随后将 大神的脚本 引入 Github 利用 Actions 的功能也能实现相同的功能
 
 这里使用的是 **NobyDa大佬的 “京东多合一签到脚本”**
 
